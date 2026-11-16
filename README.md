@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-A group project for **CS F320 Foundations of Data Science** at BITS Pilani Dubai.
+A project for **CS F320 Foundations of Data Science** at BITS Pilani Dubai.
 
 **Unlearnable data** protects images from being used for training. A small, invisible perturbation (a *stamp*) is added to every training image, so a model trained on the stamped images learns the stamp instead of the content and then fails on clean images. Existing class-wise methods let the stamp change all 3,072 values of a CIFAR-10 image freely. This project asks **how much of that freedom is actually needed**.
 
